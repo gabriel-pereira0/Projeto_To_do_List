@@ -6,10 +6,7 @@ import { AddToDo } from './components/addToDo';
 import { TodoList } from './components/TodoList';
 
 function App() {
-  const [todos, setTodos] = useState([
-    { id: 1, text: 'Tarefa 1', completed: false },
-    { id: 2, text: 'Tarefa 2', completed: false },
-  ]);
+  const [todos, setTodos] = useState([]);
   // Loga a lista de tarefas sempre que ela for atualizada
   useEffect(() => {
     console.log('Lista de tarefas atualizada: ', todos);

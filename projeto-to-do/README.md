@@ -1,16 +1,85 @@
-# React + Vite
+# 📝 To Do List - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação simples de lista de tarefas (To Do List) desenvolvida em React, com o objetivo de praticar conceitos fundamentais do desenvolvimento front-end.
 
-Currently, two official plugins are available:
+A ideia foi criar uma interface funcional e organizada, permitindo adicionar e visualizar tarefas de forma dinâmica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Tecnologias utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📚 O que foi praticado
+
+Durante o desenvolvimento deste projeto, trabalhei principalmente com:
+
+- Componentização no React
+- Gerenciamento de estado com useState
+- Manipulação de eventos
+- Renderização de listas com `.map()`
+- Controle de inputs (componentes controlados)
+- Estruturação de código para melhor organização
+
+---
+
+## ⚙️ Funcionalidades
+
+- Adicionar novas tarefas
+- Remover tarefas
+- Marcar tarefas como concluídas
+- Listar tarefas dinamicamente
+- Interface simples e intuitiva
+
+---
+
+## 💡 Objetivo
+
+Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento front-end, com foco em consolidar a base em React e entender melhor como funciona a construção de interfaces interativas.
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd nome-do-projeto
+```
+
+3. Instale as dependências:
+
+```bash
+npm install
+```
+
+4. Execute o projeto:
+
+```bash
+npm run dev
+```
+
+---
+
+## ⚡ Sobre o projeto
+
+Este projeto foi inicializado utilizando o Vite, uma ferramenta moderna que oferece um ambiente de desenvolvimento mais rápido e leve em comparação com outras soluções tradicionais.
+
+---
+
+## 📌 Observações
+
+Este é um projeto de estudo, mas serviu como base para entender conceitos importantes que serão aplicados em projetos mais completos no futuro.
+
+---
