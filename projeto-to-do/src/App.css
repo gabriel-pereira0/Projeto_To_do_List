@@ -1,0 +1,17 @@
+.container {
+  background-color: white;
+  border-radius: 1.2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 3rem;
+  width: 100%;
+  max-width: 400px;
+  margin-top: 4rem;
+}
+
+.app-title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-weight: 300;
+}
