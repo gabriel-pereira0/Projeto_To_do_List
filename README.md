@@ -49,7 +49,7 @@ Este projeto foi desenvolvido como parte dos meus estudos em desenvolvimento fro
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/gabriel-pereira0/Projeto_To_do_List
 ```
 
 2. Acesse a pasta do projeto:
