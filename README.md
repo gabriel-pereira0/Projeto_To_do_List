@@ -55,7 +55,7 @@ git clone https://github.com/gabriel-pereira0/Projeto_To_do_List
 2. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-projeto
+cd projeto-to-do
 ```
 
 3. Instale as dependências:
